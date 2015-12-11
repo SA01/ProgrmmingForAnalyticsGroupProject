@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Background \& Method}{3}{section.2}
+\contentsline {section}{\numberline {3}Organization}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Workflow}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Project structure}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Files and Steps}{4}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Listing and Purpose of script files}{4}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Original Workflow}{5}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Alternate workflow, (Quicker, recommended for evaluation}{5}{subsubsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Figures and Tables}{5}{subsection.3.4}
+\contentsline {section}{\numberline {4}Discussion}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Learnings \& Challenges}{6}{subsection.4.1}
+\contentsline {section}{\numberline {5}Conclusion}{8}{section.5}
